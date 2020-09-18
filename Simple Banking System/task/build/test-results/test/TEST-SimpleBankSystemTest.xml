@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleBankSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-18T20:42:53" hostname="DESKTOP-GPO44UV" time="0.65">
+  <properties/>
+  <testcase name="start" classname="SimpleBankSystemTest" time="0.65"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 2?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 3?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 4?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 5?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000007523497946
+Your card PIN:
+3193
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000002675777872
+Your card PIN:
+3481
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000000720664723
+Your card PIN:
+3396
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000004930651967
+Your card PIN:
+4306
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 6?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000000186411122
+Your card PIN:
+7461
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000000186411122
+Enter your PIN:
+> 7461
+
+You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 7?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000007615038210
+Your card PIN:
+1501
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000007615038210
+Enter your PIN:
+> 9411
+
+Wrong card number or PIN!
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 8?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000002783565490
+Your card PIN:
+1145
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 400000635080859
+Enter your PIN:
+> 1145
+
+Wrong card number or PIN!
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 9?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000005388883473
+Your card PIN:
+6317
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000005388883473
+Enter your PIN:
+> 6317
+
+You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 1
+
+Balance: 0
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 10?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000002302911001
+Your card PIN:
+3257
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000002302911001
+Enter your PIN:
+> 3257
+
+You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 10000
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 15000
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 11?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card number:
+4000000032213615
+Your card PIN:
+9520
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000000032213615
+Enter your PIN:
+> 9520
+
+You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 4
+The account has been closed!
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

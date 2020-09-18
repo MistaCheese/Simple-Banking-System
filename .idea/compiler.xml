@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Cinema_main" target="11" />
+      <module name="Problems-Cinema_test" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_main" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_test" target="11" />
+      <module name="Problems-Pretty_looking_pattern_main" target="11" />
+      <module name="Problems-Pretty_looking_pattern_test" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_main" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_test" target="11" />
+      <module name="Problems-Spiral_main" target="11" />
+      <module name="Problems-Spiral_test" target="11" />
+      <module name="Problems-Swap_the_columns_main" target="11" />
+      <module name="Problems-Swap_the_columns_test" target="11" />
+      <module name="Problems-The_star_figure_main" target="11" />
+      <module name="Problems-The_star_figure_test" target="11" />
+      <module name="Simple_Banking_System-task_main" target="11" />
+      <module name="Simple_Banking_System-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
